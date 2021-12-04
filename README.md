@@ -128,16 +128,22 @@ Figure 6 shows us the t-test value for each  manufacturing lot. The p-value for 
 ### Study Comparing the MechaCar to the Competition
 
 :question: What metric or metrics are you going to test?
+
 One of the metric that will be tested is maintenance cost. Maintenance cost is one of the biggest expense of car owner. By having lower maintenance cost compare to other competitor , AutosRUs can attract consumer to buy MechaCar.
 
 :question: What is the null hypothesis or alternative hypothesis?
+
  H0: Maintenance Cost have no effect for customer decision to buy car
+ 
  H1: Maintenance Cost have effect for customer decision to buy car
+ 
 
 :question: What statistical test would you use to test the hypothesis? And why?
+
 Stastical test that will be used is ANOVA. ANOVA is used to test the means of a single dependent variable across a single independent variable with multiple groups. In this case is maintenance cost mechacar compared to to other competitor.
 
 :question: What data is needed to run the statistical test?
+
 Data that will be needed is maintenance cost of mechacar and competitors and consumer survey about different maintenance cost compare to the willingness to buy a car based on the maintenance cost
 
 
