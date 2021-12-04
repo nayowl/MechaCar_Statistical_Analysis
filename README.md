@@ -125,6 +125,25 @@ Figure 5  shows us the t-test value for all  manufacturing lot. The p-value is 0
 Figure 6 shows us the t-test value for each  manufacturing lot. The p-value for lot 1 is 1 and  lot 2 is 0.6072. Both p-value for lot 1 and lot 2 are bigger than 0.05. This means that  we do not have sufficient evidence to reject the null hypothesis, and the two means not statistically different for lot 1 and lot 2. On the other hand, the p-value for lot 3 is 0.04168 and less then 0.05, this indicates that we can reject the null hypothesis for lot 3 and the two means are statistically different for lot 3.
 
 
+### Study Comparing the MechaCar to the Competition
+
+:question: What metric or metrics are you going to test?
+One of the metric that will be tested is maintenance cost. Maintenance cost is one of the biggest expense of car owner. By having lower maintenance cost compare to other competitor , AutosRUs can attract consumer to buy MechaCar.
+
+:question: What is the null hypothesis or alternative hypothesis?
+ H0: Maintenance Cost have no effect for customer decision to buy car
+ H1: Maintenance Cost have effect for customer decision to buy car
+
+:question: What statistical test would you use to test the hypothesis? And why?
+Stastical test that will be used is ANOVA. ANOVA is used to test the means of a single dependent variable across a single independent variable with multiple groups. In this case is maintenance cost mechacar compared to to other competitor.
+
+:question: What data is needed to run the statistical test?
+Data that will be needed is maintenance cost of mechacar and competitors and consumer survey about different maintenance cost compare to the willingness to buy a car based on the maintenance cost
+
+
+
+
+
 
 
 
