@@ -1,5 +1,4 @@
 # MechaCar_Statistical_Analysis
-# MechaCar_Statistical_Analysis
 ## 1. Overview
 MechaCar is  AutosRUs’ newest prototype. This analysis will be used to review the production data for insights that may help the manufacturing team to produce MechaCar. 
 The following tasks will be performed in this analysis:
